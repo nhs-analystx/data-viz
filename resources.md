@@ -54,7 +54,7 @@ A number of blogs have been created and available to read on the [AnalystX works
 <ul class="nhsuk-grid-row nhsuk-card-group">
     <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
         <div class="nhsuk-card nhsuk-card--clickable">
-            <img class="nhsuk-card__img" src="assets/img/home/futureNHS.jpg" alt="AnalystX">
+            <img class="nhsuk-card__img" src="assets/img/links/FutureNHS.jpg" alt="AnalystX">
             <div class="nhsuk-card__content">
                 <h2 class="nhsuk-card__heading nhsuk-heading-m">
                     <a class="nhsuk-card__link" href="https://future.nhs.uk/DataAnalytics">AnalystX</a>
