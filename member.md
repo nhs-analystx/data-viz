@@ -1,20 +1,19 @@
 --- 
 layout: default
-title: Centre of Excellence
+title: Members
 ---
 
 <h2><a href="https://future.nhs.uk/DataAnalytics/view?objectId=34562160">AnalystX Process Mining Centre of Excellence</a></h2>
 <p>
-  The Centre of Excellence will upload new learning material from organisations periodically. This will ensure new learning material is available for our learners and community members. 
+  The community will upload new learning material from organisations periodically. This will ensure new learning material is available for our learners and community members. 
 </p>
 <h2>Current Members:</h2>
 <ul>
-  <li><b>ZhiQing Huang</b> - Logan Tod & Co</li>
+  <li><b>Alistair Bullward</b> - NHS Digital</li>
+  <li><b>Rozanne Addams</b> - NHS Digital</li>
   <li><b>Suki Panesar</b> - NHS England</li>
   <li><b>Alex Cheung</b> - NHS England</li>
-  <li><b>NHS Trust host</b> - Mersey Care NHS Foundation Trust</li>
   <li><b>Commissiong Support Unit</b> - Arden and GEM CSU</li>
-  <li><b>NHS innovators</b> - Mid and South Essex ICS, Northampton Automation Accelerator, London Specialist Commissioning</li>
 </ul>
 
 <div class="nhsuk-do-dont-list">
