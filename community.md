@@ -1,11 +1,11 @@
 --- 
 layout: default
-title: Members
+title: community
 ---
 
-<h2><a href="https://future.nhs.uk/DataAnalytics/view?objectId=34562160">AnalystX Process Mining Centre of Excellence</a></h2>
+<h2><a href="https://future.nhs.uk/DataAnalytics/view?objectId=34562160">AnalystX Data Viz</a></h2>
 <p>
-  The community will upload new learning material from organisations periodically. This will ensure new learning material is available for our learners and community members. 
+  The community ...... . . 
 </p>
 <h2>Current Members:</h2>
 <ul>
