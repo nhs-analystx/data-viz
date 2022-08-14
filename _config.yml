@@ -1,11 +1,11 @@
 # Edit these site settings
 # ------------------------------------------
-title:             AnalystX Process Mining
+title:             AnalystX Data Viz for Health and Care
 email:             england.analystX@nhs.net
-author:            AnalystX Process Mining
-description:       "Welcome to the AnalystX Process Mining Centre of Excellence"
+author:            AnalystX Data Viz
+description:       "Welcome to the AnalystX Data Viz for Health and Care"
 url:               "https://nhs-analystx.github.io/"
-baseurl:           "process-mining/"
+baseurl:           "data-viz/"
 github_username:   nhs-analystx
 linkedin_username: 
 date_format:       "%b %-d, %Y"
