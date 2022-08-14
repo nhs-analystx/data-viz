@@ -3,7 +3,7 @@ layout: default
 title: community
 ---
 
-<h2><a href="https://future.nhs.uk/DataAnalytics/view?objectId=34562160">AnalystX Data Viz</a></h2>
+<h2><a href="https://future.nhs.uk/DataAnalytics/view?objectId=26655472">AnalystX Data Viz</a></h2>
 <p>
   The community ...... . . 
 </p>
@@ -17,7 +17,7 @@ title: community
 </ul>
 
 <div class="nhsuk-do-dont-list">
-  <h3 class="nhsuk-do-dont-list__label">Principles and aims of the <a href="https://future.nhs.uk/DataAnalytics/view?objectId=34562160">AnalystX Process Mining Centre of Excellence</a></h3>
+  <h3 class="nhsuk-do-dont-list__label">Principles and aims of the <a href="https://future.nhs.uk/DataAnalytics/view?objectId=26655472">AnalystX Data Viz/a></h3>
   <ul class="nhsuk-list nhsuk-list--tick">
       <li>
           <svg class="nhsuk-icon nhsuk-icon__tick" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
@@ -49,7 +49,7 @@ title: community
 
 <h2>Communities of Practice</h2>
 
-We are keen to support new communities in development of existing networks. Please get in touch if you would like support the development of the Process Mining Centre of Excellence.
+We are keen to support new communities in development of existing networks. Please get in touch if you would like support the development of the Data Viz for Health and Care
 – email [england.analystX@nhs.net](mailto:england.analystx@nhs.net) for more information.
 
 
