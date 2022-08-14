@@ -5,7 +5,7 @@ title: Resources
 
 ## Blogs
 
-A number of blogs have been created and available to read on the [AnalystX workspace](https://future.nhs.uk/DataAnalytics/view?objectId=34562160). Please contact us if you would like to work with us to create a blog about the Process Mining work you are involved in – please email [england.analystx@nhs.net](mailto:england.analystx@nhs.net)
+A number of blogs have been created and available to read on the [AnalystX workspace](https://future.nhs.uk/DataAnalytics/view?objectId=34562160). Please contact us if you would like to work with us to create a blog about the Data Viz work you are involved in – please email [england.analystx@nhs.net](mailto:england.analystx@nhs.net)
 
 ## Links
 
