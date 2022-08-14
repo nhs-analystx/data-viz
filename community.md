@@ -45,7 +45,6 @@ title: community
 </svg> Champion diversity, inclusion, and representation in tech by making SQL accessible to all members of the community regardless of background or current level of ability
       </li>
   </ul>
-  </ul>
 </div>
 
 <h2>Communities of Practice</h2>
